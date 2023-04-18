@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iua-deanachmad
 - 👀 I’m interested in ...software dev
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently learning ...React Native and Vue JS
 - 💞️ I’m looking to collaborate on ...anything exciting.
 - 📫 How to reach me ...dean@iua.co.za
 
